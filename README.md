@@ -1,5 +1,7 @@
 # vue-board
-
+- vue.js로 게시판 만들어보기 토이 프로젝트
+- by dkel03
+---
 ## Project setup
 ```
 npm install
